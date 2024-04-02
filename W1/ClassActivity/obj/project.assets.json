@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\allis\\Desktop\\SE245-C#\\ClassActivity\\ClassActivity.csproj",
+      "projectUniqueName": "C:\\Users\\allis\\Desktop\\SE245-C#\\W1\\ClassActivity\\ClassActivity.csproj",
       "projectName": "ClassActivity",
-      "projectPath": "C:\\Users\\allis\\Desktop\\SE245-C#\\ClassActivity\\ClassActivity.csproj",
+      "projectPath": "C:\\Users\\allis\\Desktop\\SE245-C#\\W1\\ClassActivity\\ClassActivity.csproj",
       "packagesPath": "C:\\Users\\allis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\allis\\Desktop\\SE245-C#\\ClassActivity\\obj\\",
+      "outputPath": "C:\\Users\\allis\\Desktop\\SE245-C#\\W1\\ClassActivity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\allis\\AppData\\Roaming\\NuGet\\NuGet.Config"
