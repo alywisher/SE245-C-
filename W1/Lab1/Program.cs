@@ -31,7 +31,7 @@ namespace Week1_Lab1 {
             intHour = Int32.Parse (strHour);
             intHourRate = Int32.Parse (strHourRate);
 
-            intGross = intHour * intHourRate
+            intGross = intHour * intHourRate;
 
             if (intGross < 100 )
                 intTax = 0.0

@@ -1,0 +1,15 @@
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\bin\Debug\net8.0\ClassActivity.exe
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\bin\Debug\net8.0\ClassActivity.deps.json
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\bin\Debug\net8.0\ClassActivity.runtimeconfig.json
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\bin\Debug\net8.0\ClassActivity.dll
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\bin\Debug\net8.0\ClassActivity.pdb
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\obj\Debug\net8.0\ClassActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\obj\Debug\net8.0\ClassActivity.AssemblyInfoInputs.cache
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\obj\Debug\net8.0\ClassActivity.AssemblyInfo.cs
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\obj\Debug\net8.0\ClassActivity.csproj.CoreCompileInputs.cache
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\obj\Debug\net8.0\ClassActivity.sourcelink.json
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\obj\Debug\net8.0\ClassActivity.dll
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\obj\Debug\net8.0\refint\ClassActivity.dll
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\obj\Debug\net8.0\ClassActivity.pdb
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\obj\Debug\net8.0\ClassActivity.genruntimeconfig.cache
+C:\Users\allis\Desktop\SE245-C#\W1\ClassActivity\obj\Debug\net8.0\ref\ClassActivity.dll

@@ -23,8 +23,8 @@ namespace Week1_Samplel {
             Console.Write ("Please enter the first number: ");
             strNum1 = Console.ReadLine ();
 
-            Console.Write ("Please enter the math operation (PLUS, MINUS, MULTIPLY, DIVIDE): ");
-            strOperand = Console.ReadLine ();
+            Console.Write ("Please enter the math operation (PLUS, MINUS, MULTIPLY, DIVIDE, EXPONENTS): ");
+            strOperand = Console.ReadLine ().ToUpper();
 
             Console.Write ("Please enter the second number: ");
             strNum2 = Console.ReadLine ();
@@ -42,6 +42,9 @@ namespace Week1_Samplel {
                 case "MULTIPLY": //FUCK 
                     intResult = intNum1 * intNum2;
                     break;
+                case "EXPONENTS": //i did something, not sure what but its something
+                    intResult = ((int)Math.Pow(intNum1, intNum2));
+                    break;
                 case "DIVIDE":
                     intResult = intNum1 / intNum2;
                     break;
@@ -53,8 +56,12 @@ namespace Week1_Samplel {
                 Console.WriteLine ($"\n\nThe sum of {intNum1} and {intNum2} equals: {dblResult}");
             else if (strOperand == "MINUS")
                 Console.WriteLine ($"\n\nThe difference of {intNum1} and {intNum2} equals: {dblResult}");
+            else if (strOperand == "MULTIPLY")
+                Console.WriteLine ($"\n\nThe Product of {intNum1} and {intNum2} equals: {dblResult}");
             else if (strOperand == "DIVIDE")
                 Console.WriteLine ($"\n\nThe quotient of {intNum1} and {intNum2} equals: {dblResult}");
+            else if (strOperand == "EXPONENTS")
+                Console.WriteLine ($"\n\nThe Power of {intNum1} and {intNum2} equals: {dblResult}");
 
             Console.WriteLine ("\n\nPress Any Key to Continue");
             Console.ReadKey ();
