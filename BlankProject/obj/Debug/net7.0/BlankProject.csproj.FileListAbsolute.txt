@@ -1,0 +1,15 @@
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/bin/Debug/net7.0/BlankProject
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/bin/Debug/net7.0/BlankProject.deps.json
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/bin/Debug/net7.0/BlankProject.runtimeconfig.json
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/bin/Debug/net7.0/BlankProject.dll
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/bin/Debug/net7.0/BlankProject.pdb
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/obj/Debug/net7.0/BlankProject.csproj.AssemblyReference.cache
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/obj/Debug/net7.0/BlankProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/obj/Debug/net7.0/BlankProject.AssemblyInfoInputs.cache
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/obj/Debug/net7.0/BlankProject.AssemblyInfo.cs
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/obj/Debug/net7.0/BlankProject.csproj.CoreCompileInputs.cache
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/obj/Debug/net7.0/BlankProject.dll
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/obj/Debug/net7.0/refint/BlankProject.dll
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/obj/Debug/net7.0/BlankProject.pdb
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/obj/Debug/net7.0/BlankProject.genruntimeconfig.cache
+/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/obj/Debug/net7.0/ref/BlankProject.dll
