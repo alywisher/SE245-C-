@@ -1,0 +1,15 @@
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\obj\Debug\net8.0\week3code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\obj\Debug\net8.0\week3code.AssemblyInfoInputs.cache
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\obj\Debug\net8.0\week3code.AssemblyInfo.cs
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\obj\Debug\net8.0\week3code.csproj.CoreCompileInputs.cache
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\obj\Debug\net8.0\week3code.sourcelink.json
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\bin\Debug\net8.0\week3code.exe
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\bin\Debug\net8.0\week3code.deps.json
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\bin\Debug\net8.0\week3code.runtimeconfig.json
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\bin\Debug\net8.0\week3code.dll
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\bin\Debug\net8.0\week3code.pdb
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\obj\Debug\net8.0\week3code.dll
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\obj\Debug\net8.0\refint\week3code.dll
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\obj\Debug\net8.0\week3code.pdb
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\obj\Debug\net8.0\week3code.genruntimeconfig.cache
+C:\Users\allis\Desktop\SE245-C#\W4\week4code\obj\Debug\net8.0\ref\week3code.dll
