@@ -34,15 +34,15 @@ namespace Week1_Lab1 {
             intGross = intHour * intHourRate;
 
             if (intGross < 100 )
-                intTax = 0.0
+                intTax = 0.0;
             else if (intGross < 500)
-                intTax = 0.2
+                intTax = 0.2;
             else if (intGross < 1000)
-                intTax = 0.3
+                intTax = 0.3;
             else
-                intTax = 0.5
+                intTax = 0.5;
             
-            Console.WriteLine ("Based on your information provided your")
+            Console.WriteLine ("Based on your information provided your");
             //gross = HourRate * rate
             //tax = gross * taxRate
             //net = gross - tax

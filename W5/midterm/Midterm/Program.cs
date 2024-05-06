@@ -4,7 +4,7 @@ using System;
 namespace midterm
 {
     class Project{
-        public class Person //when in doubt cry 
+        public class Person 
     {
         private string FirstName;
         private string MiddleName;
