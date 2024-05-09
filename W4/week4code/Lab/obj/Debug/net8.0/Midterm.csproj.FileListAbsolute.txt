@@ -1,0 +1,15 @@
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\obj\Debug\net8.0\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\obj\Debug\net8.0\Midterm.AssemblyInfoInputs.cache
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\obj\Debug\net8.0\Midterm.AssemblyInfo.cs
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\obj\Debug\net8.0\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\obj\Debug\net8.0\Midterm.sourcelink.json
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\bin\Debug\net8.0\Midterm.exe
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\bin\Debug\net8.0\Midterm.deps.json
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\bin\Debug\net8.0\Midterm.runtimeconfig.json
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\bin\Debug\net8.0\Midterm.dll
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\bin\Debug\net8.0\Midterm.pdb
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\obj\Debug\net8.0\Midterm.dll
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\obj\Debug\net8.0\refint\Midterm.dll
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\obj\Debug\net8.0\Midterm.pdb
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\obj\Debug\net8.0\Midterm.genruntimeconfig.cache
+C:\Users\allis\Desktop\SE245-C#\W5\midterm\Midterm\obj\Debug\net8.0\ref\Midterm.dll
