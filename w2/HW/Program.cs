@@ -55,35 +55,9 @@ namespace week2Lab
                     //1. convert the grades into doubles [check]
                     //2. add all grades together and divide by 5
                     double avgLabGrade = (lab1Grade + lab2Grade + lab3Grade + lab4Grade + lab5Grade) / 5;
-                    // -- After this point does not work --
-                    string letterGrade;
-                    if(avgLabGrade >= 90 && avgLabGrade <= 100)
-                     {
-                         letterGrade = Console.Write("A");
-                     }
-                    else if(avgLabGrade >= 80 && avgLabGrade <= 90)
-                     {
-                        letterGrade = Console.Write("B");
-                     }
-                     else if(avgLabGrade >= 70 && avgLabGrade <= 80)
-                     {
-                         letterGrade = Console.Write("C");
-                     }
-                     else if(avgLabGrade >= 60 && avgLabGrade <= 70)
-                     {
-                         letterGrade = Console.Write("D");
-                     }
-                     else(avgLabGrade <= 70);
-                     {
-                         letterGrade = Console.Write("F"); 
-                     }
+                    
                     //3. save the average and diplay it in the console
-                    Console.Write($"\nThe avrage Lab grade for {studName} is: {avgLabGrade} {letterGrade} ");
-                    
-                    
-
-                    //Console.Write("\nWould you like to enter another student [Y/N]: ");
-                    //choice = Console.ReadLine();
+                    Console.Write($"\nThe avrage Lab grade for {studName} is: {avgLabGrade} ");
                     counter++;
                 }
                     
@@ -113,9 +87,11 @@ namespace week2Lab
 
             //final display
             Console.Write("\n----------------------------------------------------"); //this ending shit may have to be another loopers doopers
-            Console.Write($"Here is the the information you have given: ");
+            Console.Write($"Here is the the information you have given");
             Console.Write("----------------------------------------------------");
-            Console.Write($"\n");
+            Console.WriteLine($"\nStudent Name: ");
+            Console.WriteLine($"\nStudent Avg. Grade:  ");
+            Console.WriteLine($"\nStudent Avg. Letter Grade");
 
 
             //me will to live is shrinking 
