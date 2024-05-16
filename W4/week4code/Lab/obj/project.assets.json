@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\allis\\Desktop\\SE245-C#\\W4\\week4code\\Lab\\Midterm.csproj",
-      "projectName": "Midterm",
-      "projectPath": "C:\\Users\\allis\\Desktop\\SE245-C#\\W4\\week4code\\Lab\\Midterm.csproj",
+      "projectUniqueName": "C:\\Users\\allis\\Desktop\\SE245-C#\\W4\\week4code\\Lab\\lab4.csproj",
+      "projectName": "lab4",
+      "projectPath": "C:\\Users\\allis\\Desktop\\SE245-C#\\W4\\week4code\\Lab\\lab4.csproj",
       "packagesPath": "C:\\Users\\allis\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\allis\\Desktop\\SE245-C#\\W4\\week4code\\Lab\\obj\\",
       "projectStyle": "PackageReference",
