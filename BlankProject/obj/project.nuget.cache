@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4j5SyXlcOoXfBTSQclBJIvdGRk1CZ0Ho98ba92aY3OpCj/bLHg7+xf6DgpB4rQ786y5VQEoN+ZxR+7kPOsPlrw==",
+  "dgSpecHash": "EkFKaMcdle6rNf1dcjri96ycpqP7OlTvzaf83gcUL4ge4zNIs8HLrfAVXMM3gfgo1GAeuU62ugoWYY3+tmaMxw==",
   "success": true,
-  "projectFilePath": "/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/BlankProject.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\allis\\Desktop\\SE245-C#\\BlankProject\\BlankProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\allis\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\allis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\allis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\allis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

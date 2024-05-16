@@ -7,19 +7,8 @@ namespace week2Lab
 {
     class Project
     {
-        //empty lists????
-
-        //vars
-        //choice -> used for the while loop
-        //studName -> to get student name
-        //lab1 -> lab 1 grade
-        //lab2 -> lab 2 garde
-        //lab3 -> lab 3 grade
-        //lab4 -> lab 4 grade
-        //lab5 -> lab 5 grade
-        //avgLabGrade -> for the ducking avrage 
         string studName, choice, letterGrade;
-        int lab1Grade = 0, lab2Grade = 0, lab3Grade = 0, lab4Grade = 0, lab5Grade = 0, avgLabGrade = 0, amountOfStudents = 0; //WTF
+        int lab1Grade = 0, lab2Grade = 0, lab3Grade = 0, lab4Grade = 0, lab5Grade = 0, avgLabGrade = 0, amountOfStudents = 0; 
         static void Main(string[] args)
         {
             
@@ -53,8 +42,9 @@ namespace week2Lab
                     Console.Write("\nPlaase enter the score for lab 5: ");
                     double lab5Grade = double.Parse(Console.ReadLine());
                     //1. convert the grades into doubles [check]
-                    //2. add all grades together and divide by 5
+                    //2. add all grades together and divide by 5 [check]
                     double avgLabGrade = (lab1Grade + lab2Grade + lab3Grade + lab4Grade + lab5Grade) / 5;
+                    //Put letter grade giver thing here 
                     
                     //3. save the average and diplay it in the console
                     Console.Write($"\nThe avrage Lab grade for {studName} is: {avgLabGrade} ");

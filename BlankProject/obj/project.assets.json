@@ -8,28 +8,32 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/isaaccolson/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\allis\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/BlankProject.csproj",
+      "projectUniqueName": "C:\\Users\\allis\\Desktop\\SE245-C#\\BlankProject\\BlankProject.csproj",
       "projectName": "BlankProject",
-      "projectPath": "/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/BlankProject.csproj",
-      "packagesPath": "/Users/isaaccolson/.nuget/packages/",
-      "outputPath": "/Users/isaaccolson/Desktop/NEIT_2024/_C#/Class Examples/BlankProject/obj/",
+      "projectPath": "C:\\Users\\allis\\Desktop\\SE245-C#\\BlankProject\\BlankProject.csproj",
+      "packagesPath": "C:\\Users\\allis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\allis\\Desktop\\SE245-C#\\BlankProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "/Users/isaaccolson/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\allis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -42,6 +46,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -58,12 +67,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.18, 7.0.18]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
