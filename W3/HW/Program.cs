@@ -5,8 +5,41 @@ namespace week3Lab
 {
     class Project
     {
-        string studName, choice, letterGrade;
-        int lab1Grade = 0, lab2Grade = 0, lab3Grade = 0, lab4Grade = 0, lab5Grade = 0, avgLabGrade = 0, amountOfStudents = 0; 
+        string studName, choice;
+        int lab1Grade = 0, lab2Grade = 0, lab3Grade = 0, lab4Grade = 0, lab5Grade = 0, amountOfStudents = 0;
+
+        static double CalculateAverage(double lab1Grade, double lab2Grade, double lab3Grade, double lab4Grade, double lab5Grade)
+        {
+            double avgLabGrade = (lab1Grade + lab2Grade + lab3Grade + lab4Grade + lab5Grade) / 5;
+            return avgLabGrade;
+        }
+        static string GetLetterGrade(double avgLabGrade)
+        {
+            string letterGrade;
+
+            if (avgLabGrade >= 90 && avgLabGrade <= 100)
+            {
+                letterGrade = "A";
+            }
+            else if (avgLabGrade >= 80 && avgLabGrade <= 90)
+            {
+                letterGrade = "B";
+            }
+            else if (avgLabGrade >= 70 && avgLabGrade <= 80)
+            {
+                letterGrade = "C";
+            }
+            else if (avgLabGrade >= 60 && avgLabGrade <= 70)
+            {
+                letterGrade = "D";
+            }
+            else
+            {
+                letterGrade = "F";
+            }
+            return letterGrade;
+        }
+
         static void Main(string[] args)
         {
             List<string> studentName = new List<string>();
@@ -20,13 +53,13 @@ namespace week3Lab
 
             Console.Write("Welcome to the Student Grading Program! Would you like to begin entering in students [Y/N]: ");
             string choice = Console.ReadLine();
-            
-            if( choice == "Y")
+
+            if (choice == "Y")
             {
                 Console.Write("How many students would you like to enter: ");
                 int amountOfStudents = int.Parse(Console.ReadLine());
                 int counter = 1;
-                while(counter <= amountOfStudents )
+                while (counter <= amountOfStudents)
                 {
                     Console.Write("\nWhat is the name of your student: ");
                     string studName = Console.ReadLine();
@@ -52,31 +85,9 @@ namespace week3Lab
                     double lab5Grade = double.Parse(Console.ReadLine());
                     studLab5.Add(lab5Grade);
 
-                    double avgLabGrade = (lab1Grade + lab2Grade + lab3Grade + lab4Grade + lab5Grade) / 5;
-                    studAvgLab.Add(avgLabGrade);
-                    
-                    string letterGrade;
-                    if(avgLabGrade >= 90 && avgLabGrade <= 100)
-                    {
-                        letterGrade = "A";
-                    }
-                    else if(avgLabGrade >= 80 && avgLabGrade <= 90)
-                    {
-                        letterGrade = "B";
-                    }
-                    else if(avgLabGrade >= 70 && avgLabGrade <= 80)
-                    {
-                        letterGrade = "C";
-                     }
-                     else if(avgLabGrade >= 60 && avgLabGrade <= 70)
-                     {
-                        letterGrade = "D";
-                     }
-                     else
-                     {
-                        letterGrade ="F"; 
-                     }
-                     studLetterGrade.Add(letterGrade);
+                    double avgLabGrade = CalculateAverage(lab1Grade, lab2Grade, lab3Grade, lab4Grade, lab5Grade);
+                    string letterGrade = GetLetterGrade(avgLabGrade);
+                    studLetterGrade.Add(letterGrade);
 
                     Console.Write("\n----------------------------------------------------");
                     Console.Write($"Here is the Students information");
@@ -87,9 +98,9 @@ namespace week3Lab
                     Console.Write("-----------------------------------------------------------------------------------------------------------------------------------------");
                     counter++;
                 }
-                    
+
             }
-            
+
         }
 
 

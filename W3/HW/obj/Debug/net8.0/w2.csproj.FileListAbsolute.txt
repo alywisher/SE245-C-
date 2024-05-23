@@ -1,0 +1,15 @@
+C:\Users\allis\Desktop\SE245-C#\W3\HW\bin\Debug\net8.0\w2.exe
+C:\Users\allis\Desktop\SE245-C#\W3\HW\bin\Debug\net8.0\w2.deps.json
+C:\Users\allis\Desktop\SE245-C#\W3\HW\bin\Debug\net8.0\w2.runtimeconfig.json
+C:\Users\allis\Desktop\SE245-C#\W3\HW\bin\Debug\net8.0\w2.dll
+C:\Users\allis\Desktop\SE245-C#\W3\HW\bin\Debug\net8.0\w2.pdb
+C:\Users\allis\Desktop\SE245-C#\W3\HW\obj\Debug\net8.0\w2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allis\Desktop\SE245-C#\W3\HW\obj\Debug\net8.0\w2.AssemblyInfoInputs.cache
+C:\Users\allis\Desktop\SE245-C#\W3\HW\obj\Debug\net8.0\w2.AssemblyInfo.cs
+C:\Users\allis\Desktop\SE245-C#\W3\HW\obj\Debug\net8.0\w2.csproj.CoreCompileInputs.cache
+C:\Users\allis\Desktop\SE245-C#\W3\HW\obj\Debug\net8.0\w2.sourcelink.json
+C:\Users\allis\Desktop\SE245-C#\W3\HW\obj\Debug\net8.0\w2.dll
+C:\Users\allis\Desktop\SE245-C#\W3\HW\obj\Debug\net8.0\refint\w2.dll
+C:\Users\allis\Desktop\SE245-C#\W3\HW\obj\Debug\net8.0\w2.pdb
+C:\Users\allis\Desktop\SE245-C#\W3\HW\obj\Debug\net8.0\w2.genruntimeconfig.cache
+C:\Users\allis\Desktop\SE245-C#\W3\HW\obj\Debug\net8.0\ref\w2.dll
